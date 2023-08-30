@@ -1,8 +1,8 @@
 Hello there! 👋
 
-My name is Brian Ha. I am currently a first year graduate stuent studying computer science at University of California, Irvine, expecting to graduate December 2023.
+My name is Brian Ha. I am a computer science graduate student at the University of California, Irvine, specializing in databases and data management, and I expect to graduate in December 2023.
 
-🌱 I’m currently learning about databases and data management, advanced programming and problem solving, and parallel and distributing computing! 
+🌱 My most recent courses include Data Structures, Machine Learning & Data Mining, and Text Processing & Pattern Matching! 
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
